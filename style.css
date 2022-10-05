@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(238, 232, 232);
+    color: black;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgb(240, 179, 65);
+}
+.content1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.img1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.img1 img{
+    width: 100%;
+}
